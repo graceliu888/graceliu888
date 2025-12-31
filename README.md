@@ -25,7 +25,7 @@ SAP • TM1 • Hyperion • Anaplan • Oracle • Snowflake • GCP BigQuery
 ### 🔹 Corporate FP&A Dashboard  
 Driver-based model + OPEX planning + automated Power BI dashboard  
 
-### 🔹 Financial Forecasting Automation (Python)  
+### 🔹 Financial Forecasting Automation 
 Time-series forecasting pipelines with automated variance reporting  
 
 ### 🔹 Retail Profitability Model  
