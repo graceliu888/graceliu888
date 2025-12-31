@@ -22,10 +22,10 @@ Python • SQL • Excel (VBA/Macros) • Power BI • Tableau • Jupyter • d
 SAP • TM1 • Hyperion • Anaplan • Oracle • Snowflake • GCP BigQuery  
 
 ## 📊 Featured Projects
-### 🔹 Corporate FP&A Dashboard  
+### 🔹 Corporate FP&A Dashboard (Python+PowerBI)
 Driver-based model + OPEX planning + automated Power BI dashboard  
 
-### 🔹 Financial Forecasting Automation 
+### 🔹 Financial Forecasting Automation (Python+SQL)
 Time-series forecasting pipelines with automated variance reporting  
 
 ### 🔹 Retail Profitability Model  
