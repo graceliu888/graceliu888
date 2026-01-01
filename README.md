@@ -31,7 +31,6 @@ Time-series forecasting pipelines with automated variance reporting
 ### 🔹 Retail Profitability Model  
 SKU contribution margin + elasticity modeling + business insights  
 
-(Projects coming soon — repository structure under development.)
 
 ## 📫 Connect with Me  
 📧 graceliu287@gmail.com  
