@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a Senior FP&A and Finance Technology Analyst with experience across Fortune 500 companies such as IBM, Roche, and Walmart. I specialize in budgeting & forecasting, financial modeling, automation, and data analytics using Python, SQL, and enterprise planning systems.
+I'm a Senior FP&A with experience across Fortune 500 companies such as IBM, Roche, and Walmart. I specialize in budgeting & forecasting, financial modeling, automation, and data analytics using Python, SQL, and enterprise planning systems.
 
 ## 🔍 About Me
 - FP&A professional with strong financial modeling and analytical skills  
