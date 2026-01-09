@@ -9,7 +9,6 @@ I'm a Senior FP&A with experience across Fortune 500 companies such as IBM, Roch
 - Experienced in SAP, TM1, Hyperion, Anaplan, and Snowflake  
 - Passionate about building automated forecasting tools and dashboards  
 - Currently building a curated FP&A project portfolio  
-- Based in Cary, NC  
 
 ## 🛠 Skills
 **Finance & FP&A:**  
