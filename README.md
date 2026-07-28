@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a Senior FP&A with experience across Fortune 500 companies such as IBM, Roche, and Walmart. I specialize in budgeting & forecasting, financial modeling, automation, and data analytics using Python, SQL, and enterprise planning systems.
+I'm a Senior FP&A with experience across Fortune 500 companies such as Volkswagon Group Company, IBM, Roche, and Walmart. I specialize in budgeting & forecasting, financial modeling, automation, and data analytics using Python, SQL, and enterprise planning systems.
 
 ## 🔍 About Me
 - FP&A professional with strong financial modeling and analytical skills  
@@ -32,4 +32,4 @@ SKU contribution margin + elasticity modeling + business insights
 
 
 ## 📫 Connect with Me  
-📧 graceliu287@gmail.com  
+📧 graceliu8889@gmail.com  
